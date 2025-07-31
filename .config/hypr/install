@@ -1,1 +1,7 @@
-
+WM: hyprland
+Desktop Portal: xdg-desktop-portal-hyprland, xdg-desktop-portal-gtk
+Session Manager: uwsm libnewt
+Wallpaper: hyprpaper
+Lockscreen: hypridle, hyprlock
+Authentication: hyprpolkitagent
+Themeing: nwg-look
